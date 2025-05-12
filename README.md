@@ -1,6 +1,6 @@
 # Chat Application Backend
 
-Це бекенд для чату з авторизацією через Google, Facebook та JWT-токени. Він підтримує CRUD-операції з чатами та зберігає дані у MongoDB.
+Це бекенд для чату з авторизацією через Google та JWT-токени. Він підтримує CRUD-операції з чатами та зберігає дані у MongoDB.
 
 ---
 
@@ -17,7 +17,7 @@
    ```bash
    git clone https://github.com/your-repo/chat-backend.git
    cd chat-backend
-   npm install
+   npm i
    ```
 ---
 
@@ -70,3 +70,7 @@ Authorization: Bearer your_access_token_here
 - Підключення Redis для кешування сесій.
 
 ---
+
+## 🔹 **Автор**
+Розроблено: **ssykkkk**  
+GitHub: (https://github.com/ssykkkk)
