@@ -15,7 +15,7 @@
 
 ## 🔹 **Встановлення**
    ```bash
-   git clone https://github.com/your-repo/chat-backend.git
+   git clone [https://github.com/your-repo/chat-backend.git](https://github.com/ssykkkk/chat_be.git)
    cd chat-backend
    npm i
    ```
@@ -73,4 +73,4 @@ Authorization: Bearer your_access_token_here
 
 ## 🔹 **Автор**
 Розроблено: **ssykkkk**  
-GitHub: (https://github.com/ssykkkk)
+GitHub: [[Твій GitHub профіль](https://github.com/your-profile)](https://github.com/ssykkkk)
