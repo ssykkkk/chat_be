@@ -26,7 +26,10 @@ passport.use(
 
           await user.save();
         }
-        return done(null, user);
+        return done(null, {
+          user,
+          token: accessToken,
+        });
       } catch (err) {
         console.error("Error during Google Authentication:", err);
         return done(err, null);
