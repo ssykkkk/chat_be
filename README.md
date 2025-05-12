@@ -15,7 +15,7 @@
 
 ## 🔹 **Встановлення**
    ```bash
-   git clone [https://github.com/your-repo/chat-backend.git](https://github.com/ssykkkk/chat_be.git)
+   git clone https://github.com/ssykkkk/chat_be.git
    cd chat-backend
    npm i
    ```
@@ -59,7 +59,7 @@ node app.js
 ## 🔹 **Авторизація**
 Для доступу до захищених маршрутів, необхідно передавати `accessToken` у **Headers**:
 ```
-Authorization: Bearer your_access_token_here
+Authorization: Bearer your_access_token
 ```
 
 ---
@@ -73,4 +73,4 @@ Authorization: Bearer your_access_token_here
 
 ## 🔹 **Автор**
 Розроблено: **ssykkkk**  
-GitHub: [[Твій GitHub профіль](https://github.com/your-profile)](https://github.com/ssykkkk)
+GitHub: [[ssykkkk](https://github.com/ssykkkk)]
