@@ -73,4 +73,4 @@ Authorization: Bearer your_access_token
 
 ## 🔹 **Автор**
 Розроблено: **ssykkkk**  
-GitHub: [[ssykkkk](https://github.com/ssykkkk)]
+GitHub: [ssykkkk](https://github.com/ssykkkk)
