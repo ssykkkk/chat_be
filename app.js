@@ -16,7 +16,6 @@ app.use(express.json());
 app.use(passport.initialize());
 
 require('./strategies/googleStrategy');
-require('./strategies/facebookStrategy');
 
 app.use('/chats', chatRoutes);
 app.use('/user', userRoutes);

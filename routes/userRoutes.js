@@ -3,7 +3,6 @@ const router = express.Router();
 const passport = require('passport');
 const { register, login } = require('../controllers/userController');
 require('../strategies/googleStrategy');
-require('../strategies/facebookStrategy');
 
 router.post('/register', register);
 router.post('/login', login);
