@@ -12,7 +12,7 @@ const cookieParser = require("cookie-parser");
 
 connectDB();
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://chat-kozak.netlify.app",
   credentials: true,
 };
 

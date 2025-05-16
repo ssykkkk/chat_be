@@ -80,7 +80,7 @@ router.get(
       { expiresIn: "1h" }
     );
 
-    res.redirect(`http://localhost:5173/home?token=${token}`);
+    res.redirect(`https://chat-kozak.netlify.app/home?token=${token}`);
   }
 );
 
